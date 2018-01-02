@@ -1,0 +1,11 @@
+C:\Users\Jonathan\source\repos\FuniBatchGUI\FuniBatchGUI\bin\Release\FuniBatchGUI.exe.config
+C:\Users\Jonathan\source\repos\FuniBatchGUI\FuniBatchGUI\bin\Release\FuniBatchGUI.exe
+C:\Users\Jonathan\source\repos\FuniBatchGUI\FuniBatchGUI\bin\Release\FuniBatchGUI.pdb
+C:\Users\Jonathan\source\repos\FuniBatchGUI\FuniBatchGUI\bin\Release\FuniBatchGUI.xml
+C:\Users\Jonathan\source\repos\FuniBatchGUI\FuniBatchGUI\obj\Release\FuniBatchGUI.BatchGUI.resources
+C:\Users\Jonathan\source\repos\FuniBatchGUI\FuniBatchGUI\obj\Release\FuniBatchGUI.Resources.resources
+C:\Users\Jonathan\source\repos\FuniBatchGUI\FuniBatchGUI\obj\Release\FuniBatchGUI.vbproj.GenerateResource.Cache
+C:\Users\Jonathan\source\repos\FuniBatchGUI\FuniBatchGUI\obj\Release\FuniBatchGUI.vbproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\FuniBatchGUI\FuniBatchGUI\obj\Release\FuniBatchGUI.exe
+C:\Users\Jonathan\source\repos\FuniBatchGUI\FuniBatchGUI\obj\Release\FuniBatchGUI.xml
+C:\Users\Jonathan\source\repos\FuniBatchGUI\FuniBatchGUI\obj\Release\FuniBatchGUI.pdb
